@@ -1,0 +1,5 @@
+/functions/.eslintrc.json
+/functions/node_modules/
+# package.json
+.firebaserc
+firebase.json
